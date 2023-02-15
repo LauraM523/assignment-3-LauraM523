@@ -1,0 +1,14 @@
+---
+title: "Laura"
+author: "Laura"
+date: "2023-02-15"
+output: html_document
+---
+
+**Facts about me**
+
+-Graduate Student in Entomology
+
+-Studying Colorado Potato Beetles
+
+-Loves reading, dogs, and watching TV shows

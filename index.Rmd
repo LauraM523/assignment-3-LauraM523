@@ -1,0 +1,19 @@
+---
+title: "Laura's Website"
+author: "Laura"
+date: "2023-02-15"
+output: html_document
+---
+
+Laura Martinez
+
+Github Account url: https://github.com/LauraM523
+
+
+
+Marisa Vale Cruz
+
+Github Account url: https://github.com/mvalecruz
+
+
+![Zia Symbol.](https://publicdomainvectors.org/photos/Anonymous_Flag_of_New_Mexico_USA.png)
